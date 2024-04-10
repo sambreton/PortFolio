@@ -20,7 +20,7 @@
  *
  * ------------------------------------------------------------------- 
  */
-html {
+ html {
 	font-family: sans-serif;
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
@@ -413,6 +413,7 @@ textarea {
 	margin-left: -20px;
 	margin-right: -20px;
 }
+
 
 [class*="col-"],
 .bgrid {
